@@ -1,0 +1,32 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Territory Of The American Samoa",
+        "abbr": "",
+        "capital": "Pago Pago",
+        "dateOfStatehood": "",
+        "flower": "",
+        "nickname": "",
+        "bird": "",
+        "tree": "",
+        "gemstone": "",
+        "nationalParks": [
+          "National Park of the American Samoa"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

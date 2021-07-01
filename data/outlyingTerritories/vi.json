@@ -1,0 +1,32 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Territory Of The U.S. Virgin Islands",
+        "abbr": "",
+        "capital": "Charlotte Amalie",
+        "dateOfStatehood": "",
+        "flower": "",
+        "nickname": "",
+        "bird": "",
+        "tree": "",
+        "gemstone": "",
+        "nationalParks": [
+          "Virgin Islands National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}
