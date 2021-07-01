@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Texas",
+        "abbr": "TX",
+        "capital": "Austin",
+        "dateOfStatehood": "December 29, 1845",
+        "flower": "Bluebonnets",
+        "nickname": "The Lone Star State",
+        "bird": "Northern Mockingbird",
+        "tree": "Pecan",
+        "gemstone": "Texas Blue Topaz",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

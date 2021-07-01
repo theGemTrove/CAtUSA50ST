@@ -1,0 +1,31 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Oklahoma",
+        "abbr": "OK",
+        "capital": "Oklahoma City",
+        "dateOfStatehood": "November 16, 1907",
+        "flower": "Mistletoe",
+        "nickname": "The Sooner State",
+        "bird": "Scissor-Tailed Flycatcher",
+        "tree": "Redbud",
+        "gemstone": "",
+        "wildflower": "Indian Blanket",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

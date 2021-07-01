@@ -1,0 +1,32 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Oregon",
+        "abbr": "OR",
+        "capital": "Salem",
+        "dateOfStatehood": "February 14, 1859",
+        "flower": "Oregon Grape",
+        "nickname": "The Beaver State",
+        "bird": "Western Meadowlark",
+        "tree": "Douglas Fir",
+        "gemstone": "Sunstone",
+        "nationalParks": [
+          "Crater Lake National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

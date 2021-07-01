@@ -1,0 +1,32 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "New Mexico",
+        "abbr": "NM",
+        "capital": "Santa Fe",
+        "dateOfStatehood": "January 6, 1912",
+        "flower": "Yucca",
+        "nickname": "The Land Of Enchantment",
+        "bird": "Roadrunner",
+        "tree": "Pinon",
+        "gemstone": "Turquoise",
+        "nationalParks": [
+          "Carlsbad Caverns National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

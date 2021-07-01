@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Vermont",
+        "abbr": "VT",
+        "capital": "Montpelier",
+        "dateOfStatehood": "March 4, 1791",
+        "flower": "Red Clover",
+        "nickname": "The Green Mountain State",
+        "bird": "Hermit Thrush",
+        "tree": "Sugar Maple",
+        "gemstone": "",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

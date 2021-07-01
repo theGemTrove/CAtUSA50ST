@@ -1,0 +1,33 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Tennessee",
+        "abbr": "TN",
+        "capital": "Nashville",
+        "dateOfStatehood": "June 1, 1796",
+        "flower": "Iris",
+        "nickname": "The Volunteer State",
+        "bird": "Mockingbird",
+        "tree": "Tulip Poplar",
+        "gemstone": "",
+        "wildflower": "Passion Flower",
+        "nationalParks": [
+          "Great Smoky Mountains National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

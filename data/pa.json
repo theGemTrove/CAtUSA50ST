@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Pennsylvania",
+        "abbr": "PA",
+        "capital": "Harrisburg",
+        "dateOfStatehood": "December 12, 1787",
+        "flower": "Mountain Laurel",
+        "nickname": "The Keystone State",
+        "bird": "Ruffed Grouse",
+        "tree": "Hemlock",
+        "gemstone": "",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

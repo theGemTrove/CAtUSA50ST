@@ -1,0 +1,32 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "North Carolina",
+        "abbr": "NC",
+        "capital": "Raleigh",
+        "dateOfStatehood": "November 21, 1789",
+        "flower": "Dogwood",
+        "nickname": "The Tar Heel State",
+        "bird": "Cardinal",
+        "tree": "Pine",
+        "gemstone": "Emerald",
+        "nationalParks": [
+          "Great Smoky Mountains National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Utah",
+        "abbr": "UT",
+        "capital": "Salt Lake City",
+        "dateOfStatehood": "January 4, 1896",
+        "flower": "Sego Lilly",
+        "nickname": "The Beehive State",
+        "bird": "California Gull",
+        "tree": "Blue Spruce",
+        "gemstone": "Topaz",
+        "nationalParks": [
+          "Arches National Park",
+          "Bryce Canyon National Park",
+          "Canyonlands National Park",
+          "Capitol Reef National Park",
+          "Zion National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

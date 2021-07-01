@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "South Dakota",
+        "abbr": "SD",
+        "capital": "Pierre",
+        "dateOfStatehood": "November 2, 1889",
+        "flower": "American Pasqueflower",
+        "nickname": "The Coyote State",
+        "bird": "Ring-necked Pheasant",
+        "tree": "Black Hills Spruce",
+        "gemstone": "Fairburn Agate",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

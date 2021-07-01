@@ -1,0 +1,33 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "South Carolina",
+        "abbr": "SC",
+        "capital": "Columbia",
+        "dateOfStatehood": "May 23, 1788",
+        "flower": "Yellow Jessamine",
+        "nickname": "The Palmetto State",
+        "bird": "Carolina Wren",
+        "tree": "Sabal Palmetto",
+        "gemstone": "Amethyst",
+        "wildflower": "Goldenrod",
+        "nationalParks": [
+          "Congaree National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

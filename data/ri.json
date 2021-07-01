@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Rhode Island",
+        "abbr": "RI",
+        "capital": "Providence",
+        "dateOfStatehood": "May 29, 1790",
+        "flower": "Violet",
+        "nickname": "The Ocean State",
+        "bird": "Rhode Island Red Hen",
+        "tree": "Red Maple",
+        "gemstone": "",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

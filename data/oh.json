@@ -1,0 +1,32 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Ohio",
+        "abbr": "OH",
+        "capital": "Bismark",
+        "dateOfStatehood": "March 1, 1803",
+        "flower": "Scarlet Carnation",
+        "nickname": "The Buckeye State",
+        "bird": "Cardinal",
+        "tree": "Ohio Buckeye",
+        "gemstone": "Ohio Flint",
+        "nationalParks": [
+          "Cuyahoga Valley National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

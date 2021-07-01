@@ -1,0 +1,32 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Virginia",
+        "abbr": "VA",
+        "capital": "Richmond",
+        "dateOfStatehood": "June 25, 1788",
+        "flower": "American Dogwood",
+        "nickname": "The Old Dominion",
+        "bird": "Cardinal",
+        "tree": "American Dogwood",
+        "gemstone": "",
+        "nationalParks": [
+          "Shenandoah National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

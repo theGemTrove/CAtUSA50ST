@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "New York",
+        "abbr": "NY",
+        "capital": "Albany",
+        "dateOfStatehood": "July 26, 1788",
+        "flower": "Rose",
+        "nickname": "The Empire State",
+        "bird": "Bluebird",
+        "tree": "Sugar Maple",
+        "gemstone": "Garnet",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

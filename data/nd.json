@@ -1,0 +1,32 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "North Dakota",
+        "abbr": "ND",
+        "capital": "Bismark",
+        "dateOfStatehood": "November 2, 1889",
+        "flower": "Wild Prairie Rose",
+        "nickname": "The Sioux State",
+        "bird": "Western Meadowlark",
+        "tree": "American Elm",
+        "gemstone": "",
+        "nationalParks": [
+          "Theodore Roosevelt National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}
