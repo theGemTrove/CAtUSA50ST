@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Wyoming",
+        "abbr": "WY",
+        "capital": "Cheyenne",
+        "dateOfStatehood": "July 10, 1869",
+        "flower": "Indian Paintbrush",
+        "nickname": "The Cowboy State",
+        "bird": "Western Meadowlark",
+        "tree": "Plains Cottonwood",
+        "gemstone": "Jade",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

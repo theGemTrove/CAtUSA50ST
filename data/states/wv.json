@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "West Virginia",
+        "abbr": "WV",
+        "capital": "Charleston",
+        "dateOfStatehood": "June 20, 1863",
+        "flower": "Rhododendron",
+        "nickname": "The Mountain State",
+        "bird": "Cardinal",
+        "tree": "Sugar Maple",
+        "gemstone": "Agatized Coral",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Wisconsin",
+        "abbr": "WI",
+        "capital": "Madison",
+        "dateOfStatehood": "May 29, 1848",
+        "flower": "Wood Violet",
+        "nickname": "The Badger State",
+        "bird": "Robin",
+        "tree": "Sugar Maple",
+        "gemstone": "",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

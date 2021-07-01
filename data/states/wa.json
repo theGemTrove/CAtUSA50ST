@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Washington",
+        "abbr": "WA",
+        "capital": "Olympia",
+        "dateOfStatehood": "November 11, 1889",
+        "flower": "Coast Rhododendron",
+        "nickname": "The Evergreen State",
+        "bird": "Willow Goldfinch",
+        "tree": "Western Hemlock",
+        "gemstone": "Petrified Wood",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}
