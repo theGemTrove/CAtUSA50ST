@@ -1,0 +1,32 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Nevada",
+        "abbr": "NV",
+        "capital": "Carson City",
+        "dateOfStatehood": "October 31, 1864",
+        "flower": "Sagebrush",
+        "nickname": "The Sagebrush State",
+        "bird": "Mountain Bluebird",
+        "tree": "Bristlecone Pine & Single-Leaf Pinon",
+        "gemstone": "Virgin Valley Black Fire Opal",
+        "nationalParks": [
+          "Great Basin National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

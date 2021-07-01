@@ -1,0 +1,33 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Michigan",
+        "abbr": "MI",
+        "capital": "Lansing",
+        "dateOfStatehood": "January 26, 1837",
+        "flower": "Apple Blossom",
+        "wildflower": "Dwarf Lake Iris",
+        "nickname": "The Wolverine State",
+        "bird": "Robin",
+        "tree": "White Pine Tree",
+        "gemstone": "Isle Royale Greenstone - Chlorastrolite",
+        "nationalParks": [
+          "Isle Royale National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

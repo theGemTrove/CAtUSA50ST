@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Delaware",
+        "abbr": "DE",
+        "capital": "Dover",
+        "dateOfStatehood": "December 7, 1787",
+        "flower": "Peach Blossom",
+        "nickname": "The Diamond State",
+        "bird": "Delaware Blue Hen",
+        "tree": "American Holly",
+        "gemstone": "",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

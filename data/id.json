@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Idaho",
+        "abbr": "ID",
+        "capital": "Boise",
+        "dateOfStatehood": "July 3, 1890",
+        "flower": "Syringa",
+        "nickname": "The Gem State",
+        "bird": "Mountain Bluebird",
+        "tree": "White Pine",
+        "gemstone": "Star Garnet",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

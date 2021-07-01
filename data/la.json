@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Louisiana",
+        "abbr": "LA",
+        "capital": "Baton Rouge",
+        "dateOfStatehood": "April 30, 1812",
+        "flower": "Magnolia",
+        "nickname": "The Pelican State",
+        "bird": "Eastern Brown Pelican",
+        "tree": "Bald Cypress",
+        "gemstone": "",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

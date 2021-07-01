@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Missouri",
+        "abbr": "MO",
+        "capital": "Jefferson City",
+        "dateOfStatehood": "August 10, 1821",
+        "flower": "Hawthorn",
+        "nickname": "The Show-Me State",
+        "bird": "Bluebird",
+        "tree": "Flowering Dogwood",
+        "gemstone": "",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Alaska",
+        "abbr": "AK",
+        "capital": "Juneau",
+        "dateOfStatehood": "January 3, 1959",
+        "flower": "Forget-Me-Not",
+        "nickname": "The Last Frontier",
+        "bird": "Willow Ptarmigan",
+        "tree": "Sitka Spruce",
+        "gemstone": "Jade",
+        "nationalParks": [
+          "Denali National Park and Preserve",
+          "Gates of the Arctic National Park & Preserve",
+          "Glacier Bay National Park",
+          "Katmai National Park & Preserve",
+          "Kenai Fjords National Park",
+          "Kobuk Valley National Park",
+          "Lake Clark National Park",
+          "Wrangell-St. Elias National Park & Preserve"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

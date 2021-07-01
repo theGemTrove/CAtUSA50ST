@@ -1,0 +1,35 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Colorado",
+        "abbr": "CO",
+        "capital": "Denver",
+        "dateOfStatehood": "August 1, 1876",
+        "flower": "Rocky Mountain Columbine",
+        "nickname": "The Centennial State",
+        "bird": "Lark Bunting",
+        "tree": "Colorado Blue Spruce",
+        "gemstone": "Aquamarine",
+        "nationalParks": [
+          "Black Canyon of the Gunnison National Park",
+          "Great Sand Dunes National Park and Preserve",
+          "Mesa Verde National Park",
+          "Rocky Mountain National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

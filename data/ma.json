@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Massachusetts",
+        "abbr": "MA",
+        "capital": "Boston",
+        "dateOfStatehood": "February 6, 1788",
+        "flower": "Mayflower",
+        "nickname": "The Old Colony State",
+        "bird": "Black-capped Chicakdee",
+        "tree": "American Elm",
+        "gemstone": "Rhodonite",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

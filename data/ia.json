@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Iowa",
+        "abbr": "IA",
+        "capital": "Des Moines",
+        "dateOfStatehood": "December 28, 1846",
+        "flower": "Wild Rose",
+        "nickname": "The Hawkeye State",
+        "bird": "Eastern Goldfinch",
+        "tree": "Oak",
+        "gemstone": "",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

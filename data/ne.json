@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Nebraska",
+        "abbr": "NE",
+        "capital": "Lincoln",
+        "dateOfStatehood": "March 1, 1867",
+        "flower": "Goldenrod",
+        "nickname": "The Cornhusker State",
+        "bird": "Western Meadowlark",
+        "tree": "Cottonwood",
+        "gemstone": "Blue Agate",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

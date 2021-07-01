@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Alabama",
+        "abbr": "AL",
+        "capital": "Montgomery",
+        "dateOfStatehood": "December 14, 1819",
+        "flower": "Camellia",
+        "nickname": "The Yellowhammer State",
+        "bird": "Yellowhammer",
+        "tree": "Southern Longleaf Pine",
+        "gemstone": "Star Blue Quartz",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

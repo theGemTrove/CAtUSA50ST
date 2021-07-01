@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Maryland",
+        "abbr": "MD",
+        "capital": "Annapolis",
+        "dateOfStatehood": "April 28, 1788",
+        "flower": "Black-eyed Susan",
+        "nickname": "The Old Line State",
+        "bird": "Baltimore Oriole",
+        "tree": "White Oak",
+        "gemstone": "Patuxent River Stone",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Illinois",
+        "abbr": "IL",
+        "capital": "Springfield",
+        "dateOfStatehood": "December 3, 1818",
+        "flower": "Violet",
+        "nickname": "The Prairie State",
+        "bird": "Cardinal",
+        "tree": "White Oak",
+        "gemstone": "",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

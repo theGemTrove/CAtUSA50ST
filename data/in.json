@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Indiana",
+        "abbr": "IN",
+        "capital": "Indianapolis",
+        "dateOfStatehood": "December 11, 1816",
+        "flower": "Peony",
+        "nickname": "The Hoosier State",
+        "bird": "Cardinal",
+        "tree": "Tulip Tree",
+        "gemstone": "",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

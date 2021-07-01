@@ -1,0 +1,34 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Arizona",
+        "abbr": "AZ",
+        "capital": "Phoenix",
+        "dateOfStatehood": "February 14, 1912",
+        "flower": "Saguaro Cactus Flower",
+        "nickname": "The Last Frontier",
+        "bird": "Cactus Wren",
+        "tree": "Palo Verde",
+        "gemstone": "Turquoise",
+        "nationalParks": [
+          "Grand Canyon National Park",
+          "Petrified Forest National Park",
+          "Saguaro National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

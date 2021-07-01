@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "New Jersey",
+        "abbr": "NJ",
+        "capital": "Trenton",
+        "dateOfStatehood": "December 18, 1787",
+        "flower": "Purple Violet",
+        "nickname": "The Garden State",
+        "bird": "Eastern Goldfinch",
+        "tree": "Red Oak",
+        "gemstone": "",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

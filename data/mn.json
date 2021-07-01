@@ -1,0 +1,32 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Minnesota",
+        "abbr": "MN",
+        "capital": "Saint Paul",
+        "dateOfStatehood": "May 11, 1858",
+        "flower": "Lady Slipper",
+        "nickname": "The North Star State, Or, Land of 10,000 Lakes",
+        "bird": "Great Northern Diver",
+        "tree": "Red Norway Pine",
+        "gemstone": "",
+        "nationalParks": [
+          "Voyageurs National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

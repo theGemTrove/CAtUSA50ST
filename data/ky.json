@@ -1,0 +1,32 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Kentucky",
+        "abbr": "KY",
+        "capital": "Indianapolis",
+        "dateOfStatehood": "June 1, 1792",
+        "flower": "Goldenrod",
+        "nickname": "The Bluegrass State",
+        "bird": "Cardinal",
+        "tree": "Tulip Poplar",
+        "gemstone": "Freshwater Pearl",
+        "nationalParks": [
+          "Mammoth Cave National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

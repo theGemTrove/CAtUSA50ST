@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Kansas",
+        "abbr": "KS",
+        "capital": "Topeka",
+        "dateOfStatehood": "January 29, 1861",
+        "flower": "Sunflower",
+        "nickname": "The Sunflower State",
+        "bird": "Western Meadowlark",
+        "tree": "Cottonwood",
+        "gemstone": "",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

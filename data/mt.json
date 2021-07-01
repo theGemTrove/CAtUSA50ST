@@ -1,0 +1,32 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Montana",
+        "abbr": "MT",
+        "capital": "Helena",
+        "dateOfStatehood": "November 8, 1889",
+        "flower": "Bitterroot",
+        "nickname": "The Treasure State",
+        "bird": "Western Meadowlark",
+        "tree": "Ponderosa Pine",
+        "gemstone": "Sapphire",
+        "nationalParks": [
+          "Glacier National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

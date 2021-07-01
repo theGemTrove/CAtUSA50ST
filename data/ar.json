@@ -1,0 +1,32 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Arkansas",
+        "abbr": "AR",
+        "capital": "Little Rock",
+        "dateOfStatehood": "June 15, 1836",
+        "flower": "Apple Blossom",
+        "nickname": "The Natural State",
+        "bird": "Mockingbird",
+        "tree": "Pine",
+        "gemstone": "",
+        "nationalParks": [
+          "Hot Springs National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

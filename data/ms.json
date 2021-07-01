@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Mississippi",
+        "abbr": "MS",
+        "capital": "Jackson",
+        "dateOfStatehood": "December 10, 1817",
+        "flower": "Magnolia",
+        "nickname": "The Magnolia State",
+        "bird": "Northern Mockingbird",
+        "tree": "Southern Magnolia Tree",
+        "gemstone": "",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Maine",
+        "abbr": "ME",
+        "capital": "Augusta",
+        "dateOfStatehood": "March 15, 1820",
+        "flower": "White Pine Cone & Tassel",
+        "nickname": "The Pine Tree State",
+        "bird": "Chickadee",
+        "tree": "White Pine Tree",
+        "gemstone": "",
+        "nationalParks": [
+          "Acadia National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Hawaii",
+        "abbr": "HI",
+        "capital": "Honolulu",
+        "dateOfStatehood": "August 21, 1959",
+        "flower": "Yellow Hibiscus",
+        "nickname": "The Aloha State",
+        "bird": "Nene",
+        "tree": "Kukui",
+        "gemstone": "",
+        "nationalParks": [
+          "Haleakala National Park",
+          "Hawaii Volcanoes National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

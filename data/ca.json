@@ -1,0 +1,39 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "California",
+        "abbr": "CA",
+        "capital": "Sacramento",
+        "dateOfStatehood": "September 9, 1850",
+        "flower": "Golden Poppy",
+        "nickname": "The Golden State",
+        "bird": "California Valley Quail",
+        "tree": "California Redwoods",
+        "gemstone": "",
+        "nationalParks": [
+          "Channel Islands National Park",
+          "Death Valley National Park",
+          "Joshua Tree National Park",
+          "Kings Canyon National Park",
+          "Lassen Volcanic National Park",
+          "Redwood National Park",
+          "Sequoia National Park",
+          "Yosemite National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

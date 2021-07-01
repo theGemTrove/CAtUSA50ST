@@ -1,0 +1,34 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Florida",
+        "abbr": "FL",
+        "capital": "Tallahassee",
+        "dateOfStatehood": "March 3, 1845",
+        "flower": "Orange Blossom",
+        "nickname": "The Sunshine State",
+        "bird": "Mockingbird",
+        "tree": "",
+        "gemstone": "",
+        "nationalParks": [
+          "Biscayne National Park",
+          "Dry Tortugas National Park",
+          "Everglades National Park"
+        ]
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

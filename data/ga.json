@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Georgia",
+        "abbr": "GA",
+        "capital": "Atlanta",
+        "dateOfStatehood": "January 2, 1788",
+        "flower": "Cherokee Rose",
+        "nickname": "The Peach State",
+        "bird": "Brown Thrasher",
+        "tree": "Live Oak",
+        "gemstone": "",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

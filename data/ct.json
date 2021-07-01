@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "Connecticut",
+        "abbr": "CT",
+        "capital": "Hartford",
+        "dateOfStatehood": "January 9, 1788",
+        "flower": "Mountain Laurel",
+        "nickname": "The Constitution State",
+        "bird": "American Robin",
+        "tree": "White Oak",
+        "gemstone": "",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}

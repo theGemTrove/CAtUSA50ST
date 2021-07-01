@@ -1,0 +1,30 @@
+{
+  "state": {
+    "data": [{
+      "information": {
+        "name": "New Hampshire",
+        "abbr": "NH",
+        "capital": "Concord",
+        "dateOfStatehood": "June 21, 1788",
+        "flower": "Purple Lilac",
+        "nickname": "The Granite State",
+        "bird": "Purple Finch",
+        "tree": "White Birch",
+        "gemstone": "Smokey Quartz",
+        "nationalParks": []
+      },
+      "recipe": {
+        "title": "",
+        "ingredients": [{
+          "quantity": "",
+          "name": "",
+          "type": ""
+        }],
+        "steps": [""],
+        "timers": [0],
+        "imageURL": "",
+        "originalURL": ""
+      }
+    }]
+  }
+}
